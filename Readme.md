@@ -20,7 +20,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
   1. [Other Great References](#references)
 
 
-####[[тмЖ]](#toc) <a name='contributors'>Contributors:</a>
+####[[⬆]](#toc) <a name='contributors'>Contributors:</a>
 
 * [moregeek](https://github.com/moregeek)
 * [typhonius](https://github.com/typhonius)
@@ -34,7 +34,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * Ben
 
 
-####[[тмЖ]](#toc) <a name='general'>General Questions:</a>
+####[[⬆]](#toc) <a name='general'>General Questions:</a>
 
 * What did you learn yesterday/this week?
 * Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.)
@@ -51,7 +51,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * Describe the general file system hierarchy of a Linux system.
 
 
-####[[тмЖ]](#toc) <a name='simple'>Simple Linux Questions:</a>
+####[[⬆]](#toc) <a name='simple'>Simple Linux Questions:</a>
 
 * What is the name and the UID of the administrator user?
 * How to list all files, including hidden ones, in a directory?
@@ -81,7 +81,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 
 
-####[[тмЖ]](#toc) <a name='medium'>Medium Linux Questions:</a>
+####[[⬆]](#toc) <a name='medium'>Medium Linux Questions:</a>
 
 * What do the following commands do and how would you use them?
  * ```tee```
@@ -117,7 +117,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * Describe a scenario when you get a "filesystem is full" error, but 'df' shows there is free space.
 * Describe a scenario when deleting a file, but 'df' not showing the space being freed.
 * Describe how 'ps' works.
-* What happens to a child process that dies and has no parent process to wait for it and whatтАЩs bad about this?
+* What happens to a child process that dies and has no parent process to wait for it and what’s bad about this?
 * Explain briefly each one of the process states.
 * How to know which process listens on a specific port?
 * What is a zombie process and what could be the cause of it?
@@ -142,7 +142,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * Do you know of any alternative shells? If so, have you used any?
 * What is a tarpipe (or, how would you go about copying everything, including hardlinks and special files, from one server to another)?
 
-####[[тмЖ]](#toc) <a name='hard'>Hard Linux Questions:</a>
+####[[⬆]](#toc) <a name='hard'>Hard Linux Questions:</a>
 
 * What is a tunnel and how you can bypass a http proxy?
 * What is the difference between IDS and IPS?
@@ -165,12 +165,12 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What are cgroups? Can you specify a scenario where you could use them?
 
 
-####[[тмЖ]](#toc) <a name='expert'>Expert Linux Questions:</a>
+####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
 
 * A running process gets ```EAGAIN: Resource temporarily unavailable``` on reading a socket. How can you close this bad socket/file descriptor without killing the process?
 
 
-####[[тмЖ]](#toc) <a name='network'>Networking Questions:</a>
+####[[⬆]](#toc) <a name='network'>Networking Questions:</a>
 
 * What is localhost and why would ```ping localhost``` fail?
 * What is the similarity between "ping" & "traceroute" ? How is traceroute able to find the hops.
@@ -193,7 +193,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What is IPoAC (RFC 1149)?
 
 
-####[[тмЖ]](#toc) <a name='mysql'>MySQL questions:</a>
+####[[⬆]](#toc) <a name='mysql'>MySQL questions:</a>
 
 * How do you create a user?
 * How do you provide privileges to a user?
@@ -204,7 +204,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * How do you check which jobs are running?
 
 
-####[[тмЖ]](#toc) <a name='devop'>DevOps Questions:</a>
+####[[⬆]](#toc) <a name='devop'>DevOps Questions:</a>
 
 * Can you describe your workflow when you create a script?
 * What is GIT?
@@ -223,7 +223,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What's the relationship between continuous delivery and DevOps?
 * What are the important aspects of a system of continuous integration and deployment?
 
-####[[тмЖ]](#toc) <a name='fun'>Fun Questions:</a>
+####[[⬆]](#toc) <a name='fun'>Fun Questions:</a>
 
 * A careless sysadmin executes the following command: ```chmod 444 /bin/chmod ``` - what do you do to fix this?
 * I've lost my root password, what can I do?
@@ -235,7 +235,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What will happen on 19 January 2038?
 
 
-####[[тмЖ]](#toc) <a name='demo'>Demo Time:</a>
+####[[⬆]](#toc) <a name='demo'>Demo Time:</a>
 
 * Unpack test.tar.gz without man pages or google.
 * Remove all "*.pyc" files from testdir recursively?
@@ -251,7 +251,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * In a log file with contents as ```<TIME> : [MESSAGE] : [ERROR_NO] - Human readable text``` display summary/count of specific error numbers that occurred every hour or a specific hour.
 
 
-####[[тмЖ]](#toc) <a name='references'>Other Great References:</a>
+####[[⬆]](#toc) <a name='references'>Other Great References:</a>
 
 Some questions are 'borrowed' from other great references like:
 
